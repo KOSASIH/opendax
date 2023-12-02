@@ -1,6 +1,6 @@
 kyc:
   provider: kycaid
-  authorization_token:   a9ff5b681077d248310859c2fe81745c1ec6         # your production API token from the 'Settings' section of kycaid.com
+  authorization_token: a9ff5b681077d248310859c2fe81745c1ec6         # your production API token from the 'Settings' section of kycaid.com
   sandbox_mode: true                        # 'true' for test environments - documents will be verified/rejected automatically, without payment for verification
   api_endpoint: https://api.kycaid.com/
 
